@@ -1,5 +1,8 @@
 # **mesh2shape** for Adobe After Effects
 
+> **NOTE:**  
+> See [ae-3d2shape](https://github.com/francescozoccheddu/ae-3d2shape) for a better script.
+
 Small script I use to import 3D meshes as shape layers in After Effects.
 
 ## Mesh file format
